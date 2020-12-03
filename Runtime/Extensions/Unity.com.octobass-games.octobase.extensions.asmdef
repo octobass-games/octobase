@@ -1,8 +1,6 @@
 {
-    "name": "Runtime",
-    "references": [
-        "GUID:ef04d1e01f9ed104ea0a0bf6aa666b72"
-    ],
+    "name": "Extensions",
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
